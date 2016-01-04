@@ -8,7 +8,7 @@
 - 完成的 PDF 图形： https://github.com/ooof/jibing/blob/master/jibing-14.pdf
 - 一个打印出来的图形： https://github.com/ooof/jibing/blob/master/jibing.jpg
 
-研究参考：
+随机搜索到的链接（供参考）：
 
 - 人类多基因疾病关键基因的无向网络筛选方法  http://www.google.com/patents/CN102086473A?cl=zh
 
